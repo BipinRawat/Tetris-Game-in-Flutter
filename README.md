@@ -16,16 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<div class="row">
-  <div class="row">
-    <img src="https://user-images.githubusercontent.com/68145747/141448544-c3803bfa-f268-46fe-a7b5-15d0f0f162a6.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="row">
-    <img src="https://user-images.githubusercontent.com/68145747/141448601-309cd2f6-8915-4e4a-b444-743cee36f67d.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="row">
-    <img src="https://user-images.githubusercontent.com/68145747/141448627-7c8df0ff-eb1b-4df7-ab8c-88c0b5f7f2d6.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
+<img src="https://user-images.githubusercontent.com/68145747/141448544-c3803bfa-f268-46fe-a7b5-15d0f0f162a6.png" width="80" height="100">
+<img src="https://user-images.githubusercontent.com/68145747/141448601-309cd2f6-8915-4e4a-b444-743cee36f67d.png" width="80" height="100">
+<img src="https://user-images.githubusercontent.com/68145747/141448627-7c8df0ff-eb1b-4df7-ab8c-88c0b5f7f2d6.png" width="80" height="100">
 
